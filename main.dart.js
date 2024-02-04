@@ -69615,7 +69615,7 @@ wo(){var s=0,r=A.S(t.yp),q,p
 var $async$wo=A.T(function(a,b){if(a===1)return A.P(b,r)
 while(true)switch(s){case 0:p=A
 s=3
-return A.a_($.Om().a9v("us-en.txt"),$async$wo)
+return A.a_($.Om().a9v("assets/us-en.txt"),$async$wo)
 case 3:q=p.a(b.split("\n"),t.s)
 s=1
 break
@@ -72435,7 +72435,7 @@ B.hM=new A.aB(75e3)
 B.AZ=new A.aB(-38e3)
 B.b5=new A.ay(0,0,0,0)
 B.B_=new A.ay(0,12,0,12)
-B.B0=new A.ay(0,340,0,0)
+B.B0=new A.ay(0,440,0,0)
 B.B1=new A.ay(0,8,0,8)
 B.B2=new A.ay(12,12,12,12)
 B.B3=new A.ay(12,20,12,12)
